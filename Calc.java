@@ -1,4 +1,13 @@
 import java.util.Arrays;
+/*
+.__                                            
+|__| _____     ________________________ ___.__.
+|  |/     \   /  ___/  _ \_  __ \_  __ <   |  |
+|  |  Y Y  \  \___ (  <_> )  | \/|  | \/\___  |
+|__|__|_|  / /____  >____/|__|   |__|   / ____|
+         \/       \/                    \/ 
+*/
+
 public class Calc {
     public static void main(String[] arguementsfromterminalcalledargs) {
         int zerowhichistheabsenceofquantityandrepresentsnothingnesswhilealsoservingasthestartingpointofnumbersandthefoundationofplacevalueandmathematicalbalance =
